@@ -17,7 +17,7 @@
 
 ### 🌱 Actualmente estoy trabajando en:
 - Finalizando mi curso de **Full Stack Development**.
-- Desarrollando una **app de estadísticas de la NBA**.
+- Desarrollando una **app para organizar el dia del amigo bien simple. [Repo - Simple Secret Santa](https://github.com/crisstrance/simple-secret-santa) **.
 
 ---
 
